@@ -18,7 +18,7 @@ O pipeline:
 
 **Nota sobre anonimização:** os grupos são identificados apenas como `Grupo1`, `Grupo2`, `Grupo3` e `Grupo4` no código e nas figuras — os dados e sua identificação clínica não são divulgados neste repositório.
 
-## 🧹 Pré-processamento (filtragem dos dados brutos)
+##  Pré-processamento (filtragem dos dados brutos)
 
 Antes de rodar o notebook principal, os arquivos `.edf` brutos precisam passar por esta etapa, que:
 1. Exclui canais técnicos (que contêm `32` ou `LEAK` no nome)
