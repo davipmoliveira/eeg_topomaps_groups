@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dados (não versionar — contêm dados de sujeitos/pacientes)
+dados/*
+!dados/.gitkeep
+*.edf
+*.fif
+
+# Resultados gerados (opcional — remova se quiser versionar figuras)
+results/*
+!results/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
