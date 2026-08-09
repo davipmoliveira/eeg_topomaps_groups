@@ -115,8 +115,8 @@ Depois de rodar isso, `dados/filtrados/` vai conter as pastas `grupo1` a `grupo4
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/davipmoliveira/eeg_topomaps_groups
+cd eeg_topomaps_groups
 ```
 
 Crie um ambiente virtual (opcional, mas recomendado) e instale as dependências:
@@ -145,9 +145,9 @@ pip install -r requirements.txt
 
 ### Rodando no Google Colab
 
-Clique no botão abaixo para abrir o notebook diretamente no Colab (ajuste `seu-usuario/seu-repositorio` para o caminho real do seu repositório):
+Clique no botão abaixo para abrir o notebook diretamente no Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/seu-repositorio/blob/main/notebooks/mba_eeg_davi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davipmoliveira/eeg_topomaps_groups/blob/main/notebooks/mba_eeg_davi.ipynb)
 
 ##  Dados
 
